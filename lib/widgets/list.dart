@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'cnt.dart';
 
-class ListW extends StatelessWidget {
-  const ListW({super.key});
+class ListV extends StatelessWidget {
+  const ListV({super.key});
 
   // This widget is the root of your application.
   @override
